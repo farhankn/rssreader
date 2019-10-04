@@ -36,8 +36,7 @@ License
 MIT
 
 ## Made with <3
-### Mohammed Farhan
-##### www.twitter.com/farhankn
+### Vaisakh
 
 **Free Software, Hell Yeah!**
 
