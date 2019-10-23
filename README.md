@@ -38,6 +38,7 @@ MIT
 ## Made with <3
 ### Mohammed Farhan
 ##### www.twitter.com/farhankn
+## <3
 
 ### Vaisakh S
 ##### vaishakhsasikumar@gmail.com
