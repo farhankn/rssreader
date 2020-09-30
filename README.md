@@ -39,8 +39,6 @@ MIT
 ### Mohammed Farhan
 ##### www.twitter.com/farhankn
 
-### Vaisakh S
-##### vaishakhsasikumar@gmail.com
 
 **Free Software, Hell Yeah!**
 
